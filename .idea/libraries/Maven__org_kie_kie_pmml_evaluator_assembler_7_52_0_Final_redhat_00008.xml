@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie:kie-pmml-evaluator-assembler:7.52.0.Final-redhat-00008">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-pmml-evaluator-assembler/7.52.0.Final-redhat-00008/kie-pmml-evaluator-assembler-7.52.0.Final-redhat-00008.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-pmml-evaluator-assembler/7.52.0.Final-redhat-00008/kie-pmml-evaluator-assembler-7.52.0.Final-redhat-00008-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-pmml-evaluator-assembler/7.52.0.Final-redhat-00008/kie-pmml-evaluator-assembler-7.52.0.Final-redhat-00008-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
